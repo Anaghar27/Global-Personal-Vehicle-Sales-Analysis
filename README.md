@@ -42,4 +42,13 @@ Values are numerical and represent the total number of new personal vehicles reg
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/global-vehicle-sales-dashboard.git
+   git clone https://github.com/Anaghar27/Global-Personal-Vehicle-Sales-Analysis-with-Tableau.git
+   cd Global-Personal-Vehicle-Sales-Analysis-with-Tableau
+
+2. Open the Tableau workbook using:
+- Tableau Desktop or Tableau Public
+- File: UK_Bank_Demographics.twbx
+
+3. Explore filters and interactive dashboards:
+- Analyze customer traits across gender, region, and classification.
+- Use visual filters to segment and compare balance levels.
